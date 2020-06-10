@@ -4,8 +4,8 @@ We perform several steps of text pre-processing, and then experiment with multip
 Using a dataset of 50000 tweets and TFIDF features, we compare the accuracy obtained using various classifiers for this task. 
 We find that linear SVMs provide us the best accuracy results among the various classifiers tried. 
 - Problem statement: 
-Given: Tweet
-Predict: Sentiment polarity of the tweet – positive vs negative
+-- Given: Tweet
+-- Predict: Sentiment polarity of the tweet – positive vs negative
 - The code is contained in the Jupyter notebook: TwitterSentimentAnalysis.ipynb
 To be able to run this, you must have Jupyter notebook installed on your machine.
 It can be run on any platform: Windows, Linux, Mac-OS
