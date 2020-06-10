@@ -14,4 +14,3 @@ Anaconda prompt, Jupyter notebook, numpy, pandas, sklearn, NLTK
 - Hardware requirement: Any operating system that supports Python. Less than 2 GB RAM.
 - Training the model takes a few hours on a machine with 8 processors.
 - Software requirement: Python
-All the generated models can be saved using Python pickle library and can be easily loaded on machines with small RAM.
